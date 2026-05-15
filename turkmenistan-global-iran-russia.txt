@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=goydamax.ru&port=443&secret=eeddb396ea36d98e42cecc4e5c165f369c676f7964616d61782e7275
-tg://proxy?server=proxy.fluxoria.it.com&port=443&secret=ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d
-https://t.me/proxy?server=tg.elysium.su&port=8443&secret=ee42c8a64c132ec4aebc445296ed884fed74672e656c797369756d2e7375
-https://t.me/proxy?server=154.86.119.86&port=443&secret=dd4dda2bc652e639e1293529a3b557c357
-https://t.me/proxy?server=tproxyru.live.&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+https://t.me/proxy?server=tg.voxiroxy.ru&port=8443&secret=eea1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6676f6f676c652e636f6d
+https://t.me/proxy?server=swekitty2.grittytarantula.sbs&port=443&secret=ee614a102098075294c7d7445df8d084167377656b69747479322e677269747479746172616e74756c612e736273
+https://t.me/proxy?server=77.239.125.158&port=443&secret=ee15465e6f97a4ca60ab5db03332290d6b77622e7275
+https://t.me/proxy?server=mt.rimuruproject.ru&port=443&secret=ee0b32a6d19fd9f1c1f8b3e48c8638a29c79612e7275
+tg://proxy?server=34.51.189.93&port=443&secret=dd2d7d9877fd3e4240f2ffd5596a39c68c
