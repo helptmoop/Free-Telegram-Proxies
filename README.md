@@ -14,19 +14,35 @@
 
 ---
 
-## 🌐 About Our Project
+## 🌐 About Our Project / О нашем проекте
 
 🇷🇺 **Русский**
-Это проект наших Telegram-каналов, предоставляющий бесплатные и высокоскоростные прокси и VPN для пользователей по всему миру. На GitHub представлена лишь небольшая ДЕМО-версия. Чтобы получать тысячи свежих, премиальных и 100% рабочих конфигов абсолютно бесплатно, присоединяйтесь к нам в Telegram!
+Мы — это масштабная экосистема для свободного интернета и цифровых решений. Наш проект включает в себя:
+* **Обход блокировок:** Тысячи бесплатных MTProto, Socks5 и VPN-конфигов (V2Ray, OpenVPN) для Туркменистана, Ирана, России и Китая.
+* **Полезные утилиты:** Боты для проверки IP (WHOIS) и расшифровки закрытых подписок (Happ).
+* **Систему наград:** Уникальный бот для бесплатного получения и заработка Telegram Stars с выводом в реал.
+*На GitHub представлена лишь ДЕМО-версия. Присоединяйтесь к нам в Telegram, чтобы получить полный доступ ко всем инструментам абсолютно бесплатно!*
 
 🇺🇸 **English**
-This is a project by our Telegram channels providing free, high-speed proxies and VPNs for users worldwide. GitHub contains only a small DEMO. To get thousands of fresh, premium, and 100% working configs absolutely for free, join us on Telegram!
+We are a large-scale ecosystem for internet freedom and digital solutions. Our project includes:
+* **Censorship Bypass:** Thousands of free MTProto, Socks5, and VPN configs (V2Ray, OpenVPN) for Turkmenistan, Iran, Russia, and China.
+* **Digital Utilities:** Bots for IP checking (WHOIS) and decrypting closed subscriptions (Happ).
+* **Reward System:** A unique bot to earn and claim free Telegram Stars with real-world withdrawals.
+*This GitHub is just a DEMO. Join us on Telegram to get full access to all tools absolutely for free!*
 
 🇮🇷 **فارسی (Persian)**
-این پروژه‌ای از کانال‌های تلگرام ما است که پروکسی‌ها و VPNهای رایگان و پرسرعت را برای کاربران سراسر جهان فراهم می‌کند. در گیت‌هاب فقط یک دموی کوچک قرار دارد. برای دریافت هزاران کانفیگ تازه، پرمیوم و ۱۰۰٪ فعال به صورت کاملاً رایگان، در تلگرام به ما بپیوندید!
+ما یک اکوسیستم بزرگ برای آزادی اینترنت و راهکارهای دیجیتال هستیم. پروژه ما شامل موارد زیر است:
+* **عبور از فیلترینگ:** هزاران کانفیگ رایگان MTProto، Socks5 و VPN (V2Ray, OpenVPN) برای ترکمنستان، ایران، روسیه و چین.
+* **ابزارهای کاربردی:** ربات‌هایی برای بررسی IP (WHOIS) و رمزگشایی اشتراک‌های بسته (Happ).
+* **سیستم پاداش:** یک ربات منحصر‌به‌فرد برای دریافت و کسب ستاره‌های رایگان تلگرام با قابلیت برداشت واقعی.
+*این گیت‌هاب فقط یک دمو است. برای دسترسی کامل و رایگان به تمامی ابزارها، در تلگرام به ما بپیوندید!*
 
 🇨🇳 **中文 (Chinese)**
-这是我们Telegram频道的一个项目，为全球用户提供免费、高速的代理和VPN。GitHub上仅提供小型演示。要完全免费获取数以千计的最新、优质且100%可用的配置，请加入我们的Telegram！
+我们是一个致力于互联网自由和数字解决方案的大型生态系统。我们的项目包括：
+* **突破网络审查:** 为土库曼斯坦、伊朗、俄罗斯和中国提供数以千计的免费 MTProto、Socks5 和 VPN 配置（V2Ray、OpenVPN）。
+* **实用工具:** 用于 IP 检查 (WHOIS) 和解密封闭订阅 (Happ) 的机器人。
+* **奖励系统:** 一个独特的机器人，可免费获取和赚取 Telegram Stars，并支持提现。
+*此 GitHub 仅为演示。加入我们的 Telegram，完全免费获取所有工具的完整访问权限！*
 
 ---
 
@@ -102,3 +118,8 @@ Copy the links below and paste them into your proxy/VPN client for auto-updates.
 🔗 **Global Demo (Iran, Russia, China):** 
 ```text
 https://raw.githubusercontent.com/helptmoop/Free-Telegram-Proxies/main/global-iran-russia-proxies.txt
+https://raw.githubusercontent.com/helptmoop/Free-Telegram-Proxies/main/turkmenistan-global-iran-russia.txt
+<br>
+<div align="center">
+<h3>⭐ Don't forget to star this repository and join our Telegram channels! ⭐</h3>
+</div>
