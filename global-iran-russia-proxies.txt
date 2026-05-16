@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-https://t.me/proxy?server=79.137.196.223&port=6443&secret=eeee121e233e90f2720d1154f701937cc5b67777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=204.168.255.33&port=8080&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=88.198.203.112&port=8080&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=194.50.94.65&port=443&secret=ee0c534d144bf266c6b7a09c532a2e529f79616e6465782e7275
 https://t.me/proxy?server=104.253.43.230&port=443&secret=ee415fbec3218718b534391d4439ab184579616e6465782e7275
+https://t.me/proxy?server=proxy.subs-sosavpn.ru&port=8443&secret=bfb77f1c4bf8a5c16eb5a3d93954ce69
+https://t.me/proxy?server=ru1.loveproxy.xyz&port=443&secret=ee53331c7ce368212942135d107924480562726f777365722e79616e6465782e636f6d
+https://t.me/proxy?server=ethereal.arixo.shop&port=443&secret=eed9fd89062ab62abcbf1bd82dfe914004617669746f2e7275
+https://t.me/proxy?server=femboy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275
