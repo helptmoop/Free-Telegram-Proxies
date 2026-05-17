@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=138.124.8.231&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
-https://t.me/proxy?server=138.124.8.240&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
-https://t.me/proxy?server=151.115.61.136&port=38443&secret=DDCA11911C0DE0FAFFEC7EDBADA55CAB1E
-https://t.me/proxy?server=138.124.8.238&port=443&secret=ee470cb2b8b29aeadfbdf8a2f7bee5ca3b62726f777365722e79616e6465782e636f6d
-tg://proxy?server=87.120.108.38&port=443&secret=f212b4ee21a6f1026aadae4ce0b08f98
+https://t.me/proxy?server=2.27.12.17&port=8443&secret=ee865927606693931857718107009786656170692e706572656b726573746f6b2e7275
+https://t.me/proxy?server=95.164.53.156&port=7777&secret=c406caad29b40b1dd4ad970b253c52c5
+https://t.me/proxy?server=tg1.exowpn.shop&port=443&secret=4e106ebb7f017e3a3ed0007faf781401
+https://t.me/proxy?server=217.60.197.93&port=8443&secret=ee25773d1e79da8a2f549d1c38da5aae41626f6f6b696e672e636f6d
+https://t.me/proxy?server=178.105.141.172&port=443&secret=ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d
