@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-https://t.me/proxy?server=connect.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
-https://t.me/proxy?server=tproxyru.live.&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
-tg://proxy?server=connect.nolags.pw&port=443&secret=ddc64c1442e6d67631dd7d40ed1e24aef2
-https://t.me/proxy?server=promo.palantirbot.xyz&port=443&secret=eefae8fc51b22080948cf13e35ce67428574672e70616c616e746972626f742e78797a
-https://t.me/proxy?server=144.31.221.15&port=443&secret=ea0d12da766348efd261ca88728c8b83
+https://t.me/proxy?server=132.243.224.144&port=443&secret=eeecda39a76e1bc3262c8c8b01f7ba4fee706574726f766963682e7275
+https://t.me/proxy?server=ru2.loveproxy.xyz&port=443&secret=ee2b655f486495422d70a99ec52d35595862726f777365722e79616e6465782e636f6d
+https://t.me/proxy?server=open.gpoint.website&port=443&secret=eec03f9d7666a41c33af662f5ba02604876f70656e2e67706f696e742e77656273697465
+tg://proxy?server=proxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275
+tg://proxy?server=45.148.117.64&port=443&secret=ee8df600387a59eb32195c6a11f04a745331632e7275
