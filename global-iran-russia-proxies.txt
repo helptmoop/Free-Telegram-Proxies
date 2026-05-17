@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-https://t.me/proxy?server=ru1.loveproxy.xyz&port=443&secret=ee53331c7ce368212942135d107924480562726f777365722e79616e6465782e636f6d
-tg://proxy?server=ark.proxytg.space&port=443&secret=eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365
-https://t.me/proxy?server=132.243.213.215&port=443&secret=ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275
-https://t.me/proxy?server=132.243.213.216&port=443&secret=eea3f41c6c1aefca10e6a8c366158ae25d706574726f766963682e7275
-https://t.me/proxy?server=connect.tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+https://t.me/proxy?server=146.103.41.249&port=443&secret=90f1d49e866eacebc95eb5dd574fa42a
+https://t.me/proxy?server=quickrouteapp.xyz&port=443&secret=ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a
+https://t.me/proxy?server=arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c99617669746f2e7275
+tg://proxy?server=He.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+tg://proxy?server=ewe.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
