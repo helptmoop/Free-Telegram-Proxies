@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=onyx.myrka.digital&port=4433&secret=eeffff2fd43322d757d8052ffffff8419e6f6e79782e6d79726b612e6469676974616c
-https://t.me/proxy?server=fn.b2-ray.ru&port=2233&secret=1a78cb0260dffe00aa646e398185a157
-https://t.me/proxy?server=s.teleg.top&port=853&secret=ee4f4c5c34212ac9de89bcb7db982acf03732e3738393935362e78797a
-https://t.me/proxy?server=109.120.186.201&port=443&secret=ddbe15b53cf65807ef6bc5c21dbdc561ad
-https://t.me/proxy?server=quackton.life&port=443&secret=ee65fc7553a1f5ca8b50b71c015b38722479616e6465782e7275
+https://t.me/proxy?server=impbest.notdev.space&port=443&secret=ee75529ffb1208fa113ea0c2c6d6e4b2b9696d70626573742e6e6f746465762e7370616365
+https://t.me/proxy?server=91.211.114.85&port=8443&secret=ee6cb2e7c86df37f8515841a8200ae9687676f6f676c652e636f6d
+https://t.me/proxy?server=95.85.229.13&port=443&secret=ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275
+https://t.me/proxy?server=proxy.nexorabust.ru&port=443&secret=dd1cebd1dd4f8441f8af01177087ee9918
+https://t.me/proxy?server=217.179.6.26&port=443&secret=ee5b2b4257910ff329dd4aab2ffaecbec16d6170732e79616e6465782e7275
