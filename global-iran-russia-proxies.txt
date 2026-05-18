@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-tg://proxy?server=rkn.prxtoday.space&port=443&secret=eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365
-https://t.me/proxy?server=proxy.pushvpn.space&port=443&secret=ee27c7f948bc8c223e13ae240911e783ab7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=freeon.name&port=443&secret=dded1a5a7f339b8ff9840d52df12382970
 tg://proxy?server=ak.yourline.online&port=443&secret=eed74b20f8b196edebcfdc6de8c8985d60616b2e796f75726c696e652e6f6e6c696e65
 tg://proxy?server=178.105.161.83&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=89.167.103.249&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=95.216.163.206&port=443&secret=dd104462821249bd7ac519130220c25d09
