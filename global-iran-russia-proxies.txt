@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-tg://proxy?server=178.105.34.79&port=443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d
-tg://proxy?server=proxy2.legendary.ac&port=443&secret=dda4c7c07709a2c6a29fca4fc63b1ae411
-tg://proxy?server=176.124.207.237&port=443&secret=fad015155defc3a8bd8ebc16b5d2b300
-tg://proxy?server=62.238.0.202&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=sex.etherealvpn.uk&port=443&secret=ee0701bd90bfa663c01c08d1e293209e287777772e6d6963726f736f66742e636f6d
+tg://proxy?server=72.56.40.220&port=443&secret=eec11798ab008831b474066c9e1ebf5c98617669746f2e7275
+https://t.me/proxy?server=proxy.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275
+https://t.me/proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d
+tg://proxy?server=157.180.69.178&port=8080&secret=dd104462821249bd7ac519130220c25d09
