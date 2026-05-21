@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-tg://proxy?server=185.139.215.136&port=443&secret=eec440223ab6741933c63c8f78184368987777772e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=82.114.226.11&port=443&secret=ee4cc83d19c09c796a4dffdd136cf06a226d61782e7275
-https://t.me/proxy?server=proxy.pushvpn.space&port=443&secret=ee27c7f948bc8c223e13ae240911e783ab7777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=free.proproxies.top&port=443&secret=ee4fb60224ec3ba77691889623ffd44dc8667265652e70726f70726f786965732e746f70
+https://t.me/proxy?server=freeon.name&port=443&secret=dded1a5a7f339b8ff9840d52df12382970
+tg://proxy?server=204.168.129.90&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=amoreszi2.duckdns.org&port=8443&secret=7kd_O40bfqH7vBqnDK2iL5R3d3cuZ29vZ2xlLmNvbQ
+https://t.me/proxy?server=hotmtpr.duckdns.org&port=7443&secret=7qxgDW_CSeK_hayoDfzZEct3d3cuZ29vZ2xlLmNvbQ
