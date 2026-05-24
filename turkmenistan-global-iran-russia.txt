@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=37.1.212.47&port=443&secret=ea93a4b1b0c7fe5899fcf31dcc74ac5d
-https://t.me/proxy?server=www.tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
-https://t.me/proxy?server=impermissible.shingly.worry.teleseryerepaly.com&port=443&secret=eec20aaa97e3cdc54f5a41bf039b77cb04647a656e2e7275
-tg://proxy?server=87.120.108.38&port=443&secret=f212b4ee21a6f1026aadae4ce0b08f98
-https://t.me/proxy?server=depicted.husker.waters.pilipinoteleserye.com&port=443&secret=eee3cf82ccb7f0dfdf6ceda06493dcf43c647a656e2e7275
+https://t.me/proxy?server=191.44.114.13&port=8443&secret=ee111122223333444405815cbbefce48ff6d61632e6d79726b612e6469676974616c
+https://t.me/proxy?server=87.58.216.199&port=443&secret=ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275
+https://t.me/proxy?server=m.proxytg.space&port=8443&secret=ee80ef2a7832ccab1a02cdad0a958a027a6d2e70726f787974672e7370616365
+https://t.me/proxy?server=77.42.79.76&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=87.239.135.114&port=8080&secret=eec430d769492e9da90eb5106af4c80a2273742e6f7a6f6e652e7275
