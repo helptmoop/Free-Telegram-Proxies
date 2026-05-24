@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=i.omsk.russia34.ru&port=443&secret=ee3dd097e0294fe99d649c5281b3156907617669746f2e7275
-https://t.me/proxy?server=g.perm.russia34.ru&port=443&secret=ee0bde7867eff38bc7f6c9c1dadb137b50617669746f2e7275
-https://t.me/proxy?server=b.krasnodar.russia34.ru&port=443&secret=ee690b0be7dccc68cf82f23d3914298e0879616e6465782e7275
-https://t.me/proxy?server=b.ufa.russia34.ru&port=443&secret=eeec0cb1dd18c7074acc1784c04db91d42617669746f2e7275
-https://t.me/proxy?server=promo.palantirbot.xyz&port=443&secret=eefae8fc51b22080948cf13e35ce67428574672e70616c616e746972626f742e78797a
+https://t.me/proxy?server=chat.eterfund.ru&port=443&secret=ee1caa37ae90774ecf9247bd53f8cd2c4a636861742e6574657266756e642e7275
+https://t.me/proxy?server=193.124.33.133&port=17945&secret=ea9348f11c49adddfca4f93a4069559e
+https://t.me/proxy?server=crusado.disport.orbed.teleseryestvheaven.com&port=443&secret=eea69a7d56434d7b7d8a4417f2c492019e647a656e2e7275
+tg://proxy?server=31.76.251.112&port=443&secret=ee9b493daf382008ddc41dc6de382cef9d6172746c6562656465762e7275
+https://t.me/proxy?server=emir.epitaphic.extend.pilipinoteleserye.com&port=443&secret=ee3fd295a848bb22fafcc43f815b6bb4ec647a656e2e7275
