@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=94.183.219.141&port=443&secret=91f5fd16db2720f5948f7cb89805f95d
-tg://proxy?server=51.250.40.141&port=8443&secret=dd3d99e77539da1c5139da072b37dc3014
-https://t.me/proxy?server=cardiograph.hypostasis.trochantin.teleseryeshd.com&port=443&secret=eed1ba4d13011067ba4614d7a5d00cee02647a656e2e7275
-https://t.me/proxy?server=quick.proxytg.space&port=8443&secret=eea7ad19b7d0642dbcfdc375b86f822c13717569636b2e70726f787974672e7370616365
-https://t.me/proxy?server=www.tproxy.mom&port=8090&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
+https://t.me/proxy?server=adsl.myrka.digital&port=443&secret=ee6e2443fe7f5904ff5ceded8d76f02ea268312e6d79726b612e6469676974616c
+https://t.me/proxy?server=45.192.12.75&port=443&secret=ee19426616ddcdda433cf4aa9866d12b3363616368657374617469632e636f6d
+https://t.me/proxy?server=b.krasnodar.russia34.ru&port=443&secret=ee690b0be7dccc68cf82f23d3914298e0879616e6465782e7275
+https://t.me/proxy?server=hop.proxytg.space&port=8443&secret=eeabb8cea3a48990152aacc55985a913116262632e636f6d
+https://t.me/proxy?server=free1.mtproxygram.lol&port=443&secret=ee3fc449f96bea349f3f710d1724396ecb62726f777365722e79616e6465782e636f6d
