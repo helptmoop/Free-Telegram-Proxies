@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-tg://proxy?server=146.103.96.129&port=443&secret=ee627bdd42b085906e41105ddd7dab8cca706574726f766963682e7275
-https://t.me/proxy?server=tproxy.monster&port=2053&secret=ee104462821249bd7ac519130220c25d096d61696c2e7275
-tg://proxy?server=mt.nowaboost.com&port=443&secret=4fd95a487c5c87ae82b6639a9b6b5ff2
-https://t.me/proxy?server=mt.nowabst.com&port=853&secret=eedd7a7a3d6f4cf1f7c3fae9cff28b73796164732e78352e7275
 https://t.me/proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564
+tg://proxy?server=r6.proxytg.space&port=8443&secret=eea66a6c939a8f1a0596bd06f17dae253772362e70726f787974672e7370616365
+tg://proxy?server=r7.proxytg.space&port=8443&secret=ee20d95482189070afff142be2bf66014c72372e70726f787974672e7370616365
+tg://proxy?server=r8.proxytg.space&port=8443&secret=eedcd75f24f6da60d7f5b6ce69faf27a0872382e70726f787974672e7370616365
+tg://proxy?server=r9.proxytg.space&port=8443&secret=ee3e77e6aa740bda96a1dabd06717f51b272392e70726f787974672e7370616365
