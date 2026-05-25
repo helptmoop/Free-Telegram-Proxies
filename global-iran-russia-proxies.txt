@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-tg://proxy?server=offni-vpn.nolags.pw&port=443&secret=dda69632d86d88061ea6e94523027b0470
-https://t.me/proxy?server=r1.proxytg.space&port=8443&secret=eecd671d2032569f6cea0fb4c61c32756972312e70726f787974672e7370616365
-https://t.me/proxy?server=g.proxytg.space&port=8443&secret=eedc41bbb2f33136f9e5f58f258e2f5a8a672e70726f787974672e7370616365
-https://t.me/proxy?server=s15.proxyru.top&port=993&secret=eefe281d2bfa13f991ed6be43138e5e14c7777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=s24.neo-trading.org&port=443&secret=ee17b59d905a546c7bf7355cf95c4ecfed79612e7275
+https://t.me/proxy?server=s11.neo-trading.org&port=993&secret=ee17b59d905a546c7bf7355cf95c4ecfed7777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=s13.neo-trading.org&port=993&secret=eec3fefd89a25d37ca3af1a602c7bfd8de7777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=prx-1-velora.getvelora.space&port=443&secret=eee8a13cbfd00919e3d686b0c8e99939d8636c6f7564666c6172652e636f6d
+tg://proxy?server=72.56.87.28&port=443&secret=eec11798ab008831b474066c9e1ebf5c76617669746f2e7275
+tg://proxy?server=rkn.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
