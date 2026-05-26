@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-https://t.me/proxy?server=mtp.webvirt.cloud&port=443&secret=ee938dd87467bc49301de2e9765cf20f4374656c2e776562766972742e636c6f7564
-tg://proxy?server=r6.proxytg.space&port=8443&secret=eea66a6c939a8f1a0596bd06f17dae253772362e70726f787974672e7370616365
-tg://proxy?server=r7.proxytg.space&port=8443&secret=ee20d95482189070afff142be2bf66014c72372e70726f787974672e7370616365
-tg://proxy?server=r8.proxytg.space&port=8443&secret=eedcd75f24f6da60d7f5b6ce69faf27a0872382e70726f787974672e7370616365
-tg://proxy?server=r9.proxytg.space&port=8443&secret=ee3e77e6aa740bda96a1dabd06717f51b272392e70726f787974672e7370616365
+tg://proxy?server=vk.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
+tg://proxy?server=72.56.87.28&port=443&secret=7sEXmKsAiDG0dAZsnh6_XHZhdml0by5ydQ
+tg://proxy?server=186.246.21.31&port=443&secret=eeb4977787e9a3f4c9d51ec528688f922e617669746f2e7275
+https://t.me/proxy?server=ru24.loveproxy.xyz&port=443&secret=ee4bd3fef872c739a8461524315e1ce66462726f777365722e79616e6465782e636f6d
+https://t.me/proxy?server=public2.mtproxygram.lol&port=443&secret=eea4eaf1027f4b431bc2e711523e1f1b4062726f777365722e79616e6465782e636f6d
