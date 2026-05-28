@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-https://t.me/proxy?server=amorecoin.duckdns.org&port=443&secret=7mYW_5fPLJzJxcvUupkA3pN3d3cuZ29vZ2xlLmNvbQ
-tg://proxy?server=otklyuchi-vpn.nolags.pw&port=443&secret=dd5a4411851bef1cf92cc9fe3ed99c72e1
-https://t.me/proxy?server=tproxy.ink&port=443&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
-https://t.me/proxy?server=elevenproxy.pro&port=444&secret=aa1234567890abcdef1234567890abcd
 tg://proxy?server=donatemt.love-pussy.ru&port=443&secret=ee8cdbb12dc4b105f8c949c9d2cdc67c1662726f777365722e79616e6465782e636f6d
+https://t.me/proxy?server=85.192.31.18&port=443&secret=eecad61c6d50bf90c6c756f68bd926989b766b2e636f6d
+https://t.me/proxy?server=854a.mtproxygram.pro&port=853&secret=eea057073dba616a176fb7b6a8dda9c71562726f777365722e79616e6465782e636f6d
+https://t.me/proxy?server=854p.mtproxygram.pro&port=853&secret=ee658e2932ddc5df58c94cdd943af64a2d62726f777365722e79616e6465782e636f6d
+tg://proxy?server=186.246.19.17&port=443&secret=eec11798ab008831b474066c9e1ebf5c67617669746f2e7275
