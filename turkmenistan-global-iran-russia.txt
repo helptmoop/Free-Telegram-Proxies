@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-tg://proxy?server=178.105.92.183&port=443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=otklyuchi-vpn.nolags.pw&port=443&secret=dd5a4411851bef1cf92cc9fe3ed99c72e1
-https://t.me/proxy?server=88.210.14.132&port=53556&secret=E____xADzDAFqlAH7nAJ3A
-https://t.me/proxy?server=serv1.link-in.cc&port=443&secret=ee046522f2b611ffadeae1994d740c589b79616e6465782e636f6d
-https://t.me/proxy?server=213.59.117.3&port=443&secret=ee785e57d2e9e5a03043f98993ba0f03f4676f6f676c65617069732e636f6d
+https://t.me/proxy?server=103.213.248.141&port=443&secret=ee69957b066812bfc337409c196d5241e173332e616d617a6f6e6177732e636f6d
+https://t.me/proxy?server=103.213.248.159&port=443&secret=ee69957b066812bfc337409c196d5241e173332e616d617a6f6e6177732e636f6d
+https://t.me/proxy?server=5.78.228.124&port=42341&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=195.254.165.99&port=8443&secret=EERighJJvXrFGRMCIMJdCQ==
+tg://proxy?server=promo.palantirbot.xyz&port=443&secret=eefae8fc51b22080948cf13e35ce67428574672e70616c616e746972626f742e78797a
