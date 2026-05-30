@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-tg://proxy?server=bucket-finland.kimt.space&port=443&secret=ee4f0a7e5cc85416fbd743f2d89da0c8bf6275636b65742d66696e6c616e642e6b696d742e7370616365
-https://t.me/proxy?server=5.78.133.252&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tg://proxy?server=89.23.108.23&port=443&secret=ee4b23e33a9d1122e920a81aef2172b5e87477697463682e7476
-https://t.me/proxy?server=r32.proxytg.space&port=8443&secret=ee3be8f1e640b29e2eaeb43a5c7ccd4bcb7233322e70726f787974672e7370616365
 https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+tg://proxy?server=sexy.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275
+https://t.me/proxy?server=new.tproxy.rest&port=8443&secret=ee79e7010200010007f0030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=77.73.131.117&port=443&secret=ee97500cee8fa3bf21435e27cf09de8b72766b2e636f6d
+tg://proxy?server=proxy.kangaroo.zip&port=443&secret=7kPMO9djJEbCwj-u5ifTLlFwcm94eS5rYW5nYXJvby56aXA
