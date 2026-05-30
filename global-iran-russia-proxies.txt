@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-https://t.me/proxy?server=79.137.194.196&port=443&secret=ee2b1199d55f2189e508d07f1f5503faf2766b2e636f6d
-tg://proxy?server=nolagss.nolags.pw&port=443&secret=dd5f7ccf9101d5af659fc40eb40da60ad1
-https://t.me/proxy?server=r27.proxytg.space&port=8443&secret=eefc330cd4811b83045e7621b94e0ecb147232372e70726f787974672e7370616365
-tg://proxy?server=free4.love-pussy.ru&port=443&secret=ee7b9c79e811a185d7df66d948abd1fbba62726f777365722e79616e6465782e636f6d
-https://t.me/proxy?server=free3.love-pussy.ru&port=443&secret=eed159f58168cc086375eb8a3f1af72fd262726f777365722e79616e6465782e636f6d
+tg://proxy?server=85.198.66.241&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275
+https://t.me/proxy?server=ad.canvas-proxy.com&port=443&secret=eeb7f10957fcefd87d5e8c336fc9851d8d61642e63616e7661732d70726f78792e636f6d
+tg://proxy?server=secure.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+tg://proxy?server=fast.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=live.tproxy.info&port=15&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
