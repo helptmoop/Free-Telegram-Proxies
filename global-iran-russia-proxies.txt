@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-https://t.me/proxy?server=r31.proxytg.space&port=8443&secret=ee27d9fee2dbe06b736ccf5ea5ca709ba27233312e70726f787974672e7370616365
-tg://proxy?server=bucket-ru-finland.kimt.space&port=443&secret=eedffefd3b8c4d2e35e91094524bd3010e6275636b65742d72752d66696e6c616e642e6b696d742e7370616365
-https://t.me/proxy?server=mizanesghh.co.uk.&port=85&secret=FgMBAgABAAH8AxOG4kw63Q
-tg://proxy?server=perfect.nolags.pw&port=443&secret=dd4658543dd0973d78171da4552480fd23
-https://t.me/proxy?server=mt.femboylover.org&port=443&secret=5f52936aa7e559b6bf6b6c62d28f0ae6
+https://t.me/proxy?server=79.137.194.196&port=443&secret=ee2b1199d55f2189e508d07f1f5503faf2766b2e636f6d
+tg://proxy?server=nolagss.nolags.pw&port=443&secret=dd5f7ccf9101d5af659fc40eb40da60ad1
+https://t.me/proxy?server=r27.proxytg.space&port=8443&secret=eefc330cd4811b83045e7621b94e0ecb147232372e70726f787974672e7370616365
+tg://proxy?server=free4.love-pussy.ru&port=443&secret=ee7b9c79e811a185d7df66d948abd1fbba62726f777365722e79616e6465782e636f6d
+https://t.me/proxy?server=free3.love-pussy.ru&port=443&secret=eed159f58168cc086375eb8a3f1af72fd262726f777365722e79616e6465782e636f6d
