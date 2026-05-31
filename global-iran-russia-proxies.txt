@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-tg://proxy?server=45.192.12.75&port=443&secret=ee19426616ddcdda433cf4aa9866d12b3363616368657374617469632e636f6d
-tg://proxy?server=rkn.nolags.pw&port=443&secret=dd0851e76efbf462822e1ae6c3ac8b7ffa
-https://t.me/proxy?server=r36.proxytg.space&port=8443&secret=eee3df338e2eddce462101e6eecbdd9ee87233362e70726f787974672e7370616365
-tg://proxy?server=fast.telehelp.top&port=443&secret=eea767a7821af88983492880c0752e434264726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=5.78.217.202&port=42341&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=89.208.113.182&port=443&secret=ee171a9375170afdb5095d7bc9c19cc562766b2e636f6d
+https://t.me/proxy?server=r37.proxytg.space&port=8443&secret=ee7dc9d9ebceb3c8ecc1aa42da972d8e547233372e70726f787974672e7370616365
+tg://proxy?server=87.58.201.189&port=443&secret=ee1caa97e5002aec0421f8c5b04a53c0e37362657262616e6b2e7275
+tg://proxy?server=whiltelist-prx1.getvelora.space&port=443&secret=ee6f8c5619eef69de325d0c3ff8a9b7a336d61782e7275
