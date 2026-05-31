@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=5.78.230.211&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=5.78.230.109&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=188.120.229.151&port=443&secret=eea9c084e8c0e39e926202af28d5fbee156d74742e7275
-https://t.me/proxy?server=95.182.82.251&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275
-https://t.me/proxy?server=207.89.20.5&port=443&secret=4da47f00c2291d55696fa3ae954ffd78
+https://t.me/proxy?server=tg3.rebirthconnect.com&port=443&secret=eefa363bb56fadd55d91a88924745ae54e7467332e72656269727468636f6e6e6563742e636f6d
+https://t.me/proxy?server=185.86.147.150&port=443&secret=ee6e35665dad80ee128615a8ee7957a60479616e6465782e7275
+https://t.me/proxy?server=85.192.29.173&port=443&secret=ee764656762499295cd6aef0714a2a4bdf766b2e636f6d
+https://t.me/proxy?server=65.109.183.195&port=443&secret=79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=abol.kashtabroo.com&port=8443&secret=07780109e2ed954f9b07629fe33c3739
