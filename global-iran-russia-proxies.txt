@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-tg://proxy?server=sex.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275
-tg://proxy?server=155.212.133.12&port=443&secret=ee8f883c77801e411e4ee8b5844785d08b77622e7275
-tg://proxy?server=186.246.21.89&port=443&secret=7sEXmKsAiDG0dAZsnh6_XHBhdml0by5ydQ
-https://t.me/proxy?server=yard-yaystal-menyat.yard-tg-bot.online&port=443&secret=ee6a441d3845f1bfec1100662ce671d8ed76762e636f6d
-https://t.me/proxy?server=yard-yaystal-menyat.yard-tg-bot.ru&port=443&secret=ee6a441d3845f1bfec1100662ce671d8ed76762e636f6d
+tg://proxy?server=mtp7.sosproxy.space&port=443&secret=ee77eea55483cdb42d81ab76a5ceddc28d64726976652e676f6f676c652e636f6d
+tg://proxy?server=r42.proxytg.space&port=8443&secret=eed45e80e76b5cd09e7994e4417a324fa17234322e70726f787974672e7370616365
+tg://proxy?server=r43.proxytg.space&port=8443&secret=ee53e5dc51c0bc1af6f2e26c8462f60f2f7234332e70726f787974672e7370616365
+tg://proxy?server=mt1.kurduk.store&port=443&secret=ee2c359976c0e74101ab25d285b51faf306d74312e6b757264756b2e73746f7265
+tg://proxy?server=mt2.kurduk.store&port=443&secret=ee2c359976c0e74101ab25d285b51faf306d74322e6b757264756b2e73746f7265
