@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-tg://proxy?server=mtp7.sosproxy.space&port=443&secret=ee77eea55483cdb42d81ab76a5ceddc28d64726976652e676f6f676c652e636f6d
-tg://proxy?server=r42.proxytg.space&port=8443&secret=eed45e80e76b5cd09e7994e4417a324fa17234322e70726f787974672e7370616365
-tg://proxy?server=r43.proxytg.space&port=8443&secret=ee53e5dc51c0bc1af6f2e26c8462f60f2f7234332e70726f787974672e7370616365
-tg://proxy?server=mt1.kurduk.store&port=443&secret=ee2c359976c0e74101ab25d285b51faf306d74312e6b757264756b2e73746f7265
-tg://proxy?server=mt2.kurduk.store&port=443&secret=ee2c359976c0e74101ab25d285b51faf306d74322e6b757264756b2e73746f7265
+https://t.me/proxy?server=ultra.fml-subs.ru&port=443&secret=ddcb4bd81322b15c8bd28f9dd954c81ddf
+tg://proxy?server=gov.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
+tg://proxy?server=186.246.21.87&port=443&secret=eec11798ab008831b474066c9e1ebf5c71617669746f2e7275
+tg://proxy?server=r-finland.kimt.space&port=443&secret=ee33a6dcb429c2952d80e01bcbae16912f6164732e78352e7275
+tg://proxy?server=bucket-ru-finland.kimt.space&port=443&secret=eedffefd3b8c4d2e35e91094524bd3010e6275636b65742d72752d66696e6c616e642e6b696d742e7370616365
