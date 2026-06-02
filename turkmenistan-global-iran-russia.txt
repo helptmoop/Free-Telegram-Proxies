@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=abol.kashtabroo.com&port=8443&secret=07780109e2ed954f9b07629fe33c3739
-https://t.me/proxy?server=89.208.113.191&port=2083&secret=ee25095e381a9dda694bd010c2d22c2ce9636f666665652e73616d6172617765622e74656368
-tg://proxy?server=fridayvpn.proxyprosto.sbs&port=443&secret=ee5d7bc000726b1b2973c914b149c16cf277622e7275
-https://t.me/proxy?server=eu.geo-cdn.ru&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=84.234.31.72&port=443&secret=3Yprf6a6McvrHq3IZKJ24skCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=wb.flowaccess.site&port=8443&secret=ee2fcc64ad41fc313d96fb8cb686e5620677622e666c6f776163636573732e73697465
+https://t.me/proxy?server=185.86.146.98&port=443&secret=2f22523a9fdd8fa67e391a31db65b614
+https://t.me/proxy?server=144.124.254.220&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=fast.quickrouteapp.xyz&port=8443&secret=ee80aa4a3c8b88e873af8b323a6c485efa666173742e717569636b726f7574656170702e78797a
+https://t.me/proxy?server=87.239.105.28&port=443&secret=bd5d182c66f93eced64e53dcb5c17003
