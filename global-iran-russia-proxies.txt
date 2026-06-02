@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-https://t.me/proxy?server=ultra.fml-subs.ru&port=443&secret=ddcb4bd81322b15c8bd28f9dd954c81ddf
-tg://proxy?server=186.246.21.131&port=443&secret=ee112a55bdf58d4ffd21bc53f7947e5769617669746f2e727
 https://t.me/proxy?server=russia.proxyprosto.sbs&port=443&secret=eea4615b0d71ccc0fc0aa3573cdd068fde77622e7275
 https://t.me/proxy?server=fridayvpn.proxyprosto.sbs&port=443&secret=ee5d7bc000726b1b2973c914b149c16cf277622e7275
 https://t.me/proxy?server=65.109.245.52&port=7980&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+https://t.me/proxy?server=big3.mtproxygram.lol&port=853&secret=ee9909e7aa6bc62461a0b60f33af14a68462726f777365722e79616e6465782e636f6d
+https://t.me/proxy?server=big2.mtproxygram.lol&port=853&secret=ee60ff1261786c2cfe88dec67ba0348e1462726f777365722e79616e6465782e636f6d
