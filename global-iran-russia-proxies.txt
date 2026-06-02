@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-tg://proxy?server=eboybey.flowaccess.site&port=8443&secret=ee1a3341522f265448a11cbb608f42166f65626f796265792e666c6f776163636573732e73697465
-tg://proxy?server=bebebe.flowstreamhub.site&port=8443&secret=ee946d6bcda5ca73247aee8016c3a10e0e6265626562652e666c6f7773747265616d6875622e73697465
-tg://proxy?server=50.114.102.134&port=443&secret=dd723f44bd19ff50a431878c6b2d0b46a0
-tg://proxy?server=auto.kimy.space&port=443&secret=ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275
 tg://proxy?server=m1.kimy.space&port=443&secret=ee03cd2d38afa4b1dff48233f2e1778f0a6164732e78352e7275
+tg://proxy?server=tuesday.nolags.pw&port=443&secret=dd3e7613f9676439cd5f056828ef716da6
+https://t.me/proxy?server=kut12.mtproxygram.pro&port=853&secret=eea3ca58d8b2b643f3ad10ebc94303ab8562726f777365722e79616e6465782e636f6d
+https://t.me/proxy?server=gert51.mtproxygram.pro&port=853&secret=eee10b50be5aa40f96fbec7937a06f3fcc62726f777365722e79616e6465782e636f6d
+tg://proxy?server=wb.flowaccess.site&port=8443&secret=ee2fcc64ad41fc313d96fb8cb686e5620677622e666c6f776163636573732e73697465
