@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-tg://proxy?server=87.239.105.28&port=443&secret=bd5d182c66f93eced64e53dcb5c17003
-tg://proxy?server=37.27.192.10&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=144.124.254.220&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=66.163.127.176&port=8443&secret=ee20215347364b59b09c1ab722bcc1d0d36d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=5.78.230.211&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=cloud.netaway.top&port=443&secret=ee5c9243f8433e734af3670f66618091f2636c6f75642e6e6574617761792e746f70
+https://t.me/proxy?server=crusado.disport.orbed.teleseryestvheaven.com&port=443&secret=eea69a7d56434d7b7d8a4417f2c492019e647a656e2e7275
+https://t.me/proxy?server=www.minetor.co.uk&port=443&secret=ee104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=contend.upwell.vaporable.teleseryerepaly.com&port=443&secret=ee99169e359ca532e715d05f2b616c7a4a647a656e2e7275
