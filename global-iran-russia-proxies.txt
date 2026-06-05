@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-tg://proxy?server=second.nolags.pw&port=443&secret=ddf4fa8f92de56cde758429546586eaac8
-tg://proxy?server=nolags.quickrouteapp.xyz&port=8443&secret=7mIg7sm-a3kO6Wn4bGx7qqRub2xhZ3MucXVpY2tyb3V0ZWFwcC54eXo
-tg://proxy?server=free2.love-pussy.ru&port=443&secret=ee668855f6986c49bab8ad7c938a5998c462726f777365722e79616e6465782e636f6d
 https://t.me/proxy?server=178.105.226.11&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=178.105.232.49&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+tg://proxy?server=highspeed.nolags.pw&port=443&secret=dd6e87000d80db522523b5ab5bb58ab3af
