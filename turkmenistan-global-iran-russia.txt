@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=nl.indigogift.fun&port=443&secret=7iOv6akEmYkYDA0ixl0h-013d3cuY2xvdWRmbGFyZS5jb20
-https://t.me/proxy?server=167.233.21.161&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=de.indigogift.fun&port=443&secret=7pSBkm4omxzjqrfiRnklIQR3d3cuY2xvdWRmbGFyZS5jb20
-tg://proxy?server=95.216.41.97&port=443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=178.105.189.59&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=103.118.247.36&port=443&secret=ee69957b066812bfc337409c196d5241e173332e616d617a6f6e6177732e636f6d
+https://t.me/proxy?server=flash.quickrouteapp.xyz&port=443&secret=eec7b876f355b93b6b786cb4b6c9daee79666c6173682e717569636b726f7574656170702e78797a
+https://t.me/proxy?server=88.98.305.2.klp.75pib.life&port=25565&secret=EAAzAFUAcAkQAzAFUAdwAwCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=178.105.183.45&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=relay.mtp.quest&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
