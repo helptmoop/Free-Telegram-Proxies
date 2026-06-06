@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=204.44.119.123&port=443&secret=90c8de8da71eb831885668d0a51e5fce
-tg://proxy?server=android.my-miner.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0=
-tg://proxy?server=94.130.163.60&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=65.108.201.16&port=443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=94.130.163.24&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=178.105.239.55&port=443&secret=ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d
+https://t.me/proxy?server=web.my-miner.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D
+https://t.me/proxy?server=51.250.82.46&port=443&secret=ee2147d08d35506c24aad6bd92df99e44e617669746f2e7275
