@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=103.161.34.42&port=443&secret=dd79e7010200010007f0030386e24c3add
-https://t.me/proxy?server=38.173.251.165&port=443&secret=ee18ee186bc32c92e8457eef54aa5fbb997777772e6170706c652e636f6d
-https://t.me/proxy?server=38.173.252.170&port=443&secret=ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d
-https://t.me/proxy?server=185.223.93.114&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=77.221.149.109&port=8445&secret=ee636c6f75642e6d61696c2e7275df45
+https://t.me/proxy?server=connect.bifrost.now&port=443&secret=ee5cc2e9533f7ed01348091e2714636407786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=secure.bits-lab.info&port=443&secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d
+https://t.me/proxy?server=total.beyondeson-co.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
+tg://proxy?server=151.242.182.218&port=3616&secret=dd6abc24a3bb7e55327f7b5f523bed1c27
