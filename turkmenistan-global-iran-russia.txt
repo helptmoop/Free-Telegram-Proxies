@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-tg://proxy?server=213.219.212.16&port=8443&secret=ee9e1dde0de02a2e7c22d10e2fff84101374676e6e2e6c697665
-https://t.me/proxy?server=167.233.53.2&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=tgnn.live&port=8443&secret=ee9e1dde0de02a2e7c22d10e2fff84101374676e6e2e6c697665
-https://t.me/proxy?server=65.109.254.108&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-https://t.me/proxy?server=176.65.138.27&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ==
+tg://proxy?server=quick.proxytg.space&port=8443&secret=7qetGbfQZC28_cN1uG-CLBNxdWljay5wcm94eXRnLnNwYWNl
+https://t.me/proxy?server=russia.chunkycorp.shop&port=443&secret=ee3a3365be03d6bc13518d65e70a3146c2617669746f2e7275
+https://t.me/proxy?server=103.161.35.56&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=5.75.203.37&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=185.8.104.135&port=8443&secret=dd104462821249bd7ac519130220c25d09
