@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=54.38.136.46&port=8443&secret=dd3353e4f80af755fdd7297ac71b319ee7
-https://t.me/proxy?server=kotyata.myrka.digital&port=444&secret=eebbcd4bf2fba94edfebf68ca1c8601c6b6b6f74796174612e6d79726b612e6469676974616c
-https://t.me/proxy?server=78.17.118.65&port=442&secret=eed0db874ef88e3daa019189c2bb9650ed6b6173706572736b792e7275
-https://t.me/proxy?server=95.216.195.146&port=443&secret=ee04901ee18641067c6df1e28cccbbb01f636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=87.248.129.235&port=443&secret=FgMBAgABAAH8AwOG4kw63QFgMBAgABAAH8AwOG4kw63Q
+https://t.me/proxy?server=167.233.22.149&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=signal3.mtproxy.zip&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+tg://proxy?server=vector3.mtproxy.zip&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+tg://proxy?server=65.108.201.8&port=443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=176.65.138.27&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ
