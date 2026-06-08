@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=103.161.34.42&port=443&secret=dd79e7010200010007f0030386e24c3add
-https://t.me/proxy?server=167.233.53.71&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=167.233.58.97&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=94.183.221.166&port=443&secret=f9b16f87a08e3875fca12c952c879f39
-https://t.me/proxy?server=94.183.221.48&port=443&secret=18733289367c7034dcbc9584d231383f
+https://t.me/proxy?server=82.40.62.133&port=443&secret=ee2c6545ec332a382bb6d072f506896d6c7777772e676f6f676c652e636f6d
+https://t.me/proxy?server=95.216.195.146&port=443&secret=ee04901ee18641067c6df1e28cccbbb01f636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=87.248.129.235&port=443&secret=FgMBAgABAAH8AwOG4kw63QFgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=77.221.149.109&port=8445&secret=ee636c6f75642e6d61696c2e7275df45
+https://t.me/proxy?server=artist.stereotyper.upborn.teleseryestvheaven.com&port=443&secret=ee73fde7d2db16c799e6a8e203c12e97a2647a656e2e7275
