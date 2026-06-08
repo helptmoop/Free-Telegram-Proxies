@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-https://t.me/proxy?server=2.26.146.3&port=15&secret=7hYDAQIAAQAB_AMDhuJMOt1jZG4ueWVrdGFuZXQuY29t
-https://t.me/proxy?server=2.26.146.4&port=15&secret=7hYDAQIAAQAB_AMDhuJMOt1jZG4ueWVrdGFuZXQuY29t
-https://t.me/proxy?server=ad.canvas-proxy.com&port=443&secret=eeb7f10957fcefd87d5e8c336fc9851d8d61642e63616e7661732d70726f78792e636f6d
-tg://proxy?server=june.nolags.pw&port=443&secret=dd479dd5c298eb110a7c9cffc8d6ce500c
-https://t.me/proxy?server=live.tproxy.info&port=15&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=65.108.123.76&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=194.120.230.120&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=65.21.205.37&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=93.190.247.226&port=443&secret=ee77b20ec12fb5b1fa89b055f21e9c6712617669746f2e7275
+tg://proxy?server=proxy2.arixo.shop&port=443&secret=ee2d3817c6b2bf469fb5064e6cb4b19790617669746f2e7275
