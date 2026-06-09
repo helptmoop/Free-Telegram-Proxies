@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=78.17.145.8&port=442&secret=eed0db874ef88e3daa019189c2bb9650ed6b6173706572736b792e7275
-https://t.me/proxy?server=casablanca.halo.promptitude.teleseryestv.com&port=443&secret=eee2909752f42438c66f981ebd13a4c3d0647a656e2e7275
-https://t.me/proxy?server=5.9.254.193&port=1&secret=ddacda3005d2499b081b88975658563f0a
-https://t.me/proxy?server=167.233.74.32&port=443&secret=dd79ee65acf6c575bd6f8b3c1ddc7107a3
-https://t.me/proxy?server=192.238.160.230&port=42661&secret=eed1d95d7109ed22fdcc561b6e0cb1b2807777772e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=relay.mtp.quest&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=93.77.164.181&port=8443&secret=eecb1b3acd99ef5cb1fbcc8a4f3660c31b686f737467746573742e73757267652e7368
+https://t.me/proxy?server=91.217.166.25&port=65535&secret=FgMBAgABAAH8AwOG4kw63QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tg://proxy?server=ee1.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=91.217.166.26&port=65535&secret=FgMBAgABAAH8AwOG4kw63QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
