@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-https://t.me/proxy?server=infrasonics.melisma.stelliform.teleseryetvreplay.com&port=443&secret=ee14b7bd62d0690e311a0ec35640589f43647a656e2e7275
-https://t.me/proxy?server=apex.proxyux.site&port=443&secret=ee1e16392ec634c2ebce9387a9edcf24e3617065782e70726f787975782e73697465
-https://t.me/proxy?server=flux.proxyux.site&port=443&secret=ee0a7ecff0ebda97b34dc84157b8cbfad3666c75782e70726f787975782e73697465
-https://t.me/proxy?server=5.161.128.123&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=93.77.166.39&port=443&secret=ee1fed31d4c3ce8255aedc8c4c14a36f536170692e707278746f6461792e73746f7265
+https://t.me/proxy?server=94.183.221.171&port=443&secret=98f4187ff5a930171c4f4517a2bc5ae4
+https://t.me/proxy?server=dogfight.foretoken.horizonless.teleseryetvreplay.com&port=443&secret=ee5f700b50344f1487fa477f9bc9fd29f9647a656e2e7275
+https://t.me/proxy?server=tg.baboon.digital&port=443&secret=eeadbeaa05161ee95e7829275716a859406164732e78352e7275
+https://t.me/proxy?server=168.119.148.26&port=155&secret=dd1603010200010001fc030386e24c3add
+https://t.me/proxy?server=tg.limbovpn.ru&port=443&secret=ee89bea1ac525b5c7e58939d18a26e2ae574672e6c696d626f76706e2e7275
