@@ -2,8 +2,8 @@
 🚀 GET 100+ NEW PROXIES EVERY HOUR IN TELEGRAM: @FreeProxyGlobal & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40FreeProxyGlobal%20%26%20%40Memo_VPN
-https://t.me/proxy?server=2.26.146.6&port=15&secret=7hYDAQIAAQAB_AMDhuJMOt1jZG4ueWVrdGFuZXQuY29t
-https://t.me/proxy?server=ge.nowabst.net&port=853&secret=eefdf6175e50069c01bd22d786534aa2b26164732e78352e7275
-tg://proxy?server=relay.nowabst.net&port=853&secret=7hn0rSbGWJH9Is87elnw0QNhZHMueDUucnU
-https://t.me/proxy?server=echo.proxym.world&port=443&secret=ee03856fdd3a0b54784892677df90144a06563686f2e70726f78796d2e776f726c64
-https://t.me/proxy?server=apex.proxym.world&port=443&secret=ee4459d77ba2b570d1a593a478d3cd94a4617065782e70726f78796d2e776f726c64
+https://t.me/proxy?server=ai.kerfilia.info&port=6775&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=flux.proxym.world&port=443&secret=ee9f447c337d66b416b8e4f81a27e8e344666c75782e70726f78796d2e776f726c64
+https://t.me/proxy?server=jet.proxym.world&port=443&secret=ee894a8e1c70d3ec137af76968609e04666a65742e70726f78796d2e776f726c64
+https://t.me/proxy?server=portal.old-but-new.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D
+https://t.me/proxy?server=rkn.proxytelega.store&port=8443&secret=eeec48b14805acf33a64f494fe7cf6656a726b6e2e70726f787974656c6567612e73746f7265
