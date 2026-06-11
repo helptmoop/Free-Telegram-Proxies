@@ -2,8 +2,8 @@
 💎 100% WORKING IN TURKMENISTAN! GET MORE IN TELEGRAM: @GlobalProxyTm & @Memo_VPN
 =========================================
 vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80?type=tcp#%F0%9F%91%89%20JOIN%20%40GlobalProxyTm%20%26%20%40Memo_VPN
-tg://proxy?server=178.105.50.21&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=lumen.proxyux.site&port=443&secret=ee46a405cdf38698927aa7352341e2ba0a6c756d656e2e70726f787975782e73697465
-tg://proxy?server=5.161.224.47&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=mx.proxyz.site&port=443&secret=ee76166fbf55209edbcfbe009bcc16f4646d782e70726f78797a2e73697465
 https://t.me/proxy?server=o1.artengines.ru&port=443&secret=ee8bc9b4a879d496dd240c1f006471c6616f312e617274656e67696e65732e7275
+https://t.me/proxy?server=5.161.224.47&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=live.proxyvpn.site&port=443&secret=eed2430edff0d3fc503099f982282bd0066c6976652e70726f787976706e2e73697465
+https://t.me/proxy?server=94.183.221.187&port=443&secret=dad5507eae3c60fa8eca1b91f577e03d
